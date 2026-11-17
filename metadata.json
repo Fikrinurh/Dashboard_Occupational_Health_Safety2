@@ -1,0 +1,6 @@
+{
+  "name": "OHS EXPERT – Occupational Health & Safety Management System",
+  "description": "Enterprise Occupational Health Monitoring, Medical Examinations, Workplace Accident Investigation (Five Whys & 6M Fishbone), CAPA Management, and Verification System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
